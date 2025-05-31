@@ -6,6 +6,10 @@ A free *multitool* made by WtireXoo (me).
 
 1. Discord tools 1-15
 
+# How to install
+
+To be able to use this, you are going to need a c# workload in the Visual Studio installer.
+
 # FAQ
 
 Q: Is it a virus? // A: Hell no. You can put the exe in the virustotal.
