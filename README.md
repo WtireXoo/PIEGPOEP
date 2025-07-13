@@ -19,6 +19,8 @@
 
 > **PIEGPOEP** is a free, all-in-one multitool designed to make your life easier with a collection of Discord-related utilities. Whether you're managing servers, testing webhooks, or just trolling your friends (responsibly 😏), PIEGPOEP has your back.
 
+> However, you have to compile it
+
 - 💼 Built for power-users
 - ⚡ Optimized for speed
 - 🔓 100% open source and free
