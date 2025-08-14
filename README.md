@@ -45,17 +45,3 @@
 > Full feature list is inside the app. 🎉
 
 ---
-
-## 📥 Installation Guide
-
-### 🧱 Requirements
-
-- ✅ Visual Studio (recommended 2022 or later)
-- ✅ .NET Desktop Development workload
-- ✅ Windows 10/11
-
-### 🔧 Steps
-
-```bash
-git clone https://github.com/wtirexoo/piegpoep
-cd piegpoep
